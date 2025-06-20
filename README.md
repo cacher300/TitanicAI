@@ -1,1 +1,3 @@
 # TitanicAI
+
+XG boost predictor
